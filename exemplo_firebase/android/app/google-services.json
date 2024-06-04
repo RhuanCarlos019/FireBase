@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85364158332",
+    "project_id": "teste-firebase-tarde-rhuan",
+    "storage_bucket": "teste-firebase-tarde-rhuan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85364158332:android:f02efd27258ddd1d62bef9",
+        "android_client_info": {
+          "package_name": "br.com.Rhuan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJPImzLrQ-_TSJ9Sbnma34PGNiZEnXac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
